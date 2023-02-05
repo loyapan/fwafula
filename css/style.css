@@ -797,7 +797,7 @@ button {
     width: 100%;
     float: left;
     font-size: 24px;
-    color: #fffcf4;
+    color: #ffffff;
 }
 .about_text, li {
 }
@@ -815,7 +815,7 @@ button {
     width: 100%;
     float: left;
     font-size: 18px;
-    color: #fffcf4;
+    color: #ffffff;
     padding-top: 10px;
     margin: 0px;
     line-height: 40px;
@@ -877,7 +877,7 @@ button {
 .copyright_section {
     width: 60%;
     margin: 0 auto;
-    border-top: 1px solid #fff;
+    border-top: 1px solid #ffffff;
     margin-top: 55px;
     text-align: center;
 }
@@ -894,7 +894,7 @@ button {
     color: #ffffff
 }
 .copyright_text a:hover{
-    color: #ff5a58;
+    color: #ffffff;
 }
 .margin_top_90{
   margin-top: 90px;
@@ -915,26 +915,26 @@ button {
     width: 100%;
     float: left;
     font-size: 24px;
-    color: #fffcf4;
+    color: #ffffff;
 }
 .about_text, li {
 }
 .location_text {
     width: 100%;
     font-size: 18px;
-    color: #fffcf4;
+    color: #ffffff;
     padding-top: 18px;
     text-align: right;
 }
 .padding_left_15 {
-    padding-left: 15px;
+    padding-left: 5px;
 }
 .dolor_text{
     width: 100%;
     float: left;
     font-size: 18px;
-    color: #fffcf4;
-    padding-top: 10px;
+    color: #ffffff;
+    padding-top: 5px;
     margin: 0px;
     line-height: 40px;
 }
@@ -995,7 +995,7 @@ button {
 .copyright_section {
     width: 60%;
     margin: 0 auto;
-    border-top: 1px solid #fff;
+    border-top: 1px solid #ffffff;
     margin-top: 55px;
     text-align: center;
 }
@@ -1042,7 +1042,7 @@ footer {
 }
 
 .footer-section a {
-   border-top-color:#bbb;
+   border-top-color:#ffffff;
   opacity:0.5
 }
 
