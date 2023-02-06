@@ -1005,12 +1005,12 @@ button {
 }
 .copyright_text {
     width: 100%;
-    float: left;
+    float: center;
     color: #ffffff;
     text-align: center;
     font-size: 16px;
     margin-left: 0px;
-    padding: 10px 0px;
+    padding: 0px;
 }
 .copyright_text a{
     color: #ffffff
